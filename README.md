@@ -13,3 +13,6 @@ Fire dash expander up and enjoy the initial emojicons to work with,
 you can table-flip with EASE!
 
 (╯°□°)╯︵ ┻━┻
+
+Other operating systems? Look at dump_e.txt and the code I used to
+scrape the originating collection to reuse the curated emojicons.
